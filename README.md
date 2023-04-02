@@ -1,3 +1,3 @@
 # git_test
-Github workflow training
+Github workflow training.
 Hello Odin!
